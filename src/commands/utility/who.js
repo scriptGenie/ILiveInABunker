@@ -10,7 +10,6 @@ module.exports = {
         let commanders = [];
 
         for (let each of members) {
-            console.log(each[1])
 
             if (!each[1].user.bot) {
                 // console.log(each[1].user);
