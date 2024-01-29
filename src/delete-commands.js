@@ -1,4 +1,4 @@
-let badID = '1201070468921315429';
+let badID = '1201385336035614781';
 
 const { REST, Routes } = require('discord.js');
 require('dotenv').config();

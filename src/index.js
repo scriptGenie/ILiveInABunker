@@ -9,6 +9,7 @@ const client = new Client({
     intents: [
         IntentsBitField.Flags.Guilds,
         IntentsBitField.Flags.GuildMembers,
+        IntentsBitField.Flags.GuildPresences,
         IntentsBitField.Flags.GuildMessages,
         IntentsBitField.Flags.MessageContent,
     ],
@@ -71,6 +72,8 @@ client.on('interactionCreate', async (interaction) => {
         console.error(
             `No command matching ${interaction.commandName} was found.`
         );
+
+        interaction.reply(`Invalid Command: ${interaction.commandName}`)
         return;
     }
 
