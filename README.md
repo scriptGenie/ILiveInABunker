@@ -17,5 +17,3 @@ TODO. For now any interest is welcome and appreciated. Feel free to tinker and m
 
 ###### Tags
 Discord bot - rpg - wasteland - survivor - survival - post-apocalyptic - apocalypse
-
-</center>
