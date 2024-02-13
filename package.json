@@ -1,7 +1,7 @@
 {
   "name": "iliveinabunker",
   "version": "1.0.0",
-  "description": "Discord bot - rpg - wasteland - survivor - survival - post-apocalyptic - apocalypse",
+  "description": "discord bot - idle - rpg - wasteland - survival - post-apocalyptic",
   "main": "src/bot.js",
   "scripts": {
     "test": "node ."
