@@ -1,6 +1,6 @@
 # <center>ILiveInABunker</center>
 
-<div style="visibility:hidden">[Github but fancy though](https://scriptgenie.github.io/ILiveInABunker/)</div>
+<div style="visibility:hidden"><span>[Github but fancy though](https://scriptgenie.github.io/ILiveInABunker/)</span></div>
 
 ILiveInABunker is a idle-ish rpg set in a post-apocalyptic nuclear wasteland. Resources are scarce, and retrieving them from the wastes is a gamble every time.
 
