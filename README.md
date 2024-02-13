@@ -10,13 +10,7 @@ As is life, most things are random. You could start comfortable and stay comfort
 
 
 ## <center>Contributing</center>
-TODO. For now any interest is welcome and appreciated. Feel free to tinker and make pull requests. Please include detailed comments and such.
-
-You'll need to follow the discordjs guide for creating a bot and adding it to a server for testing. Project is currently set up to utilize a .env file setup with {token}, {guildId}, and {clientId} in the following format:
-
-- token="YOUR-TEXT-HERE"
-- guildId="YOUR-TEXT-HERE"
-- clientId=="YOUR-TEXT-HERE"
+Any interest is welcome and appreciated. Feel free to tinker and make pull requests. Please include detailed comments and such. Navigate to [CONTRIBUTING.md](https://github.com/scriptGenie/ILiveInABunker/blob/main/CONTRIBUTING.md) for more info.
 
 
 If you're new to contributing (like myself!) head over to [Issue #1](https://github.com/scriptGenie/ILiveInABunker/issues/1) and make a pull request to get started (Downloading/Running the project is not required to work on this issue.).
