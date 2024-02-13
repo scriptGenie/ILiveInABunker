@@ -45,6 +45,9 @@ jspm_packages/
 # Test Resources
 Resources/Images/Pending
 
+# Github configs
+_config.yml
+
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
 
