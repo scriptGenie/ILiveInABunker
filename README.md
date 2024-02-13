@@ -12,8 +12,9 @@ TODO. For now any interest is welcome and appreciated. Feel free to tinker and m
 
 
 ![An illuminated passageway in disrepair](Resources/Images/Misc/ship_way.png)
+<center>Credit - craiyon.com</center>
 
-##### Credits: craiyon.com
+<br>
 
-###### Tags
-Discord bot - rpg - wasteland - survivor - survival - post-apocalyptic - apocalypse
+###### <center>Tags</center>
+<center>discord bot - idle - rpg - wasteland - survival - post-apocalyptic</center>
