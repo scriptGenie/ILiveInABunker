@@ -6,7 +6,7 @@ ILiveInABunker is a idle-ish rpg set in a post-apocalyptic nuclear wasteland. Re
 
 Players will control one or more Bunkers, sites (usually underground) that have managed to stay in a somewhat habitable condition despite the world falling apart. These Bunkers can range from semi-shielded train cars some prepper stuffed in the side of a mountain, to full-on nuclear fallout shelters designed for long-term habitation.
 
-As is life, most things are random. You could start comfortable and stay comfortable, or claw your way to stability from a lead-lined root cellar.
+As is life, most things are random. You might start comfortable and stay comfortable, or claw your way to stability from a lead-lined root cellar.
 
 
 ## <center>Contributing</center>
